@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
   </p>
 </div> -->
-# Hey 👋 I'm Kirit
+<!-- # Hey 👋 I'm Kirit
 
 ## WHOAMI
 Full Stack Developer | AI Enthusiast
@@ -22,4 +22,66 @@ Full Stack Developer | AI Enthusiast
 </div>
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark) -->
+
+<h1 align="center">Hi 👋, I'm Kirit</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Web & AI projects**
+- 🌱 I’m currently learning **Machine Learning & Statistical Models**
+- 💬 Ask me about **JavaScript, React, Python**
+- ⚡ Fun fact: *I love building cool things on the internet*
+
+---
+
+## 🛠️ Tech Stack
+
+<div style="display:flex, flex-direction:column">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
+  </p>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+  </p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-07-16&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a> •
+<a href="https://github.com/Ranjan-07-16">GitHub</a>
+
+</p>
+
+---
+
+⭐ From [Ranjan-07-16](https://github.com/Ranjan-07-16)
