@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,ts,nginx,cloudflare,git,linux,github,vim" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vim" />
 </p>
