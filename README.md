@@ -24,12 +24,12 @@ Full Stack Developer | AI Enthusiast
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark) -->
 
-<h1 align="center">Hi 👋, I'm Kirit</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+<h1>Hi 👋, I'm Kirit</h1>
+<h3>Full Stack Developer | AI Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+## ☕ About Me
 
 - 🔭 I’m currently working on **Web & AI projects**
 - 🌱 I’m currently learning **Machine Learning & Statistical Models**
@@ -63,7 +63,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## 🧠 Most Used Languages
+## 🪐 Most Used Languages
 
 <p align="center">
 
@@ -73,15 +73,11 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 How to Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a> •
-<a href="https://github.com/Ranjan-07-16">GitHub</a>
+#LinkedIn: <p><a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a></p> •
+#GitHub: <p><a href="https://github.com/Ranjan-07-16">GitHub</a></p>
 
 </p>
-
----
-
-⭐ From [Ranjan-07-16](https://github.com/Ranjan-07-16)
