@@ -24,7 +24,7 @@ Full Stack Developer | AI Enthusiast
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark) -->
 
-<h1>Hi, I'm Kirit🌌</h1>
+<h1>Hi, I'm Kirit 🌌</h1>
 <h3>Machine Learning Enthusiast</h3>
 
 ---
