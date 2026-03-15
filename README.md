@@ -22,4 +22,4 @@ Full Stack Developer | AI Enthusiast
 </div>
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark)
