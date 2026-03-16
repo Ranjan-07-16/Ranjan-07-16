@@ -29,16 +29,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## ☕ About Me
-
-- 🔭 I’m currently working on **Web & AI projects**
-- 🌱 I’m currently learning **Machine Learning & Statistical Models**
-- 💬 Ask me about **JavaScript, React, Python**
-- ⚡ Fun fact: *I love building cool things on the internet*
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div style="display:flex, flex-direction:column">
   <p align="center">
@@ -51,7 +42,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -63,7 +54,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## 🪐 Most Used Languages
+# 🪐 Most Used Languages
 
 <p align="center">
 
@@ -73,7 +64,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-## 🌐 How to Connect With Me
+# HOW TO REACH ME
 
 <p align="center">
 
