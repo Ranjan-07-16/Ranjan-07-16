@@ -72,5 +72,5 @@ Full Stack Developer | AI Enthusiast
 
 ### Social
 
-### LinkedIn <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn/</a><br>
-### Instagram <a href="https://www.instagram.com/kirit.0301/">Instagram</a>
+• LinkedIn <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a><br>
+• Instagram <a href="https://www.instagram.com/kirit.0301/">Instagram</a>
