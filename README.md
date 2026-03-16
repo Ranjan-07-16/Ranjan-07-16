@@ -29,7 +29,7 @@ Full Stack Developer | AI Enthusiast
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div style="display:flex, flex-direction:column">
   <p align="center">
