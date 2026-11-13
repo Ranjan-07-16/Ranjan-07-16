@@ -1,7 +1,9 @@
 <h1 align="center">✨ Kirit Ranjan ✨</h1>
 
----
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Qualities-00f5ff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full+Stack+Developer;Integrating+Technology,+Data+and+Algorithms" />
 </p>
