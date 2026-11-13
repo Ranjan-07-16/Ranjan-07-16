@@ -1,63 +1,24 @@
-<!-- <div style="display:flex, flex-direction:column">
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
-  </p>
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-  </p>
-</div> -->
-<!-- # Hey 👋 I'm Kirit
-
-## WHOAMI
-Full Stack Developer | AI Enthusiast
-
-## Skills
-<div style="display:flex, flex-direction:column">
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
-  </p>
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-  </p>
-</div>
-
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&theme=dark) -->
-
-<h2>Hi, I'm Kirit 🌌</h1>
-<h4>Machine Learning Enthusiast</h3>
+<h2 align="center">Hi, I'm Kirit 🌌</h2>
+<h4 align="center">Machine Learning Enthusiast</h4>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div style="display:flex, flex-direction:column">
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
-  </p>
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" alt="Backend and Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Stack" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<!-- <img src="![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight)" /> -->
-<!-- <img src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=dark)" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?user=Ranjan-07-16&show_icons=true&theme=tokyonight" /> -->
-![Ranjan-07-16's GitHub stats](https://vercel.app)
-
-
-
-<!-- <img src="![Streak](https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight)" /> -->
-<!-- <img src="![GitHub Streak](https://streak-stats.demolab.com/?user=YOURNAME&theme=dark)" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-07-16&theme=tokyonight" />
-
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" alt="Ranjan-07-16's GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,24 +26,16 @@ Full Stack Developer | AI Enthusiast
 ### 🪐 Most Used Languages
 
 <p align="center">
-
-<!-- <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight&hide=html,css)" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Ranjan-07-16&layout=compact&theme=tokyonight" /> -->
-![Top Langs](https://vercel.app)
-
-
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### ☎️ HOW TO REACH ME
 
-### Mail
+#### Mail
+* <a href="mailto:kiritranjan7@gmail.com">kiritranjan7@gmail.com</a> [PRIMARY]
 
-• <a href="kiritranjan7@gmail.com">kiritranjan7@gmail.com</a> [PRIMARY]
-
-### Social
-
-• <span>LinkedIn:</span>  <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a><br>
-• <span>Instagram:</span> <a href="https://www.instagram.com/kirit.0301/">Instagram</a>
+#### Social
+* **LinkedIn:** <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/">LinkedIn</a>
+* **Instagram:** <a href="https://www.instagram.com/kirit.0301/">Instagram</a>
