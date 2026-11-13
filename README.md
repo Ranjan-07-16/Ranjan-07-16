@@ -46,9 +46,11 @@ Full Stack Developer | AI Enthusiast
 
 <p align="center">
 
-<img src="![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight)" />
+<!-- <img src="![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight)" /> -->
+<img src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=dark)" />
 
-<img src="![Streak](https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight)" />
+<!-- <img src="![Streak](https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight)" /> -->
+<img src="![GitHub Streak](https://streak-stats.demolab.com/?user=YOURNAME&theme=dark)" />
 
 </p>
 
