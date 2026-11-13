@@ -48,12 +48,12 @@ Full Stack Developer | AI Enthusiast
 
 <!-- <img src="![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight)" /> -->
 <!-- <img src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=dark)" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" />
 
 
 <!-- <img src="![Streak](https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight)" /> -->
 <!-- <img src="![GitHub Streak](https://streak-stats.demolab.com/?user=YOURNAME&theme=dark)" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-07-16&theme=tokyonight" />
 
 
 </p>
@@ -65,7 +65,7 @@ Full Stack Developer | AI Enthusiast
 <p align="center">
 
 <!-- <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight&hide=html,css)" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" />
 
 
 </p>
