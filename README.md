@@ -1,9 +1,7 @@
-<h1 align="center">✨ Hi, I'm Kirit ✨</h1>
-
----
+<h1 align="center">✨ Kirit Ranjan ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+&+Machine+Learning;Full+Stack+Developer;Integrating+Technology,+Data+and+Algorithms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full+Stack+Developer;Integrating+Technology,+Data+and+Algorithms" />
 </p>
 
 ---
@@ -11,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" alt="Backend and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,github" alt="Backend and Tools" />
   <br />
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Stack" />
   <br />
@@ -30,7 +28,7 @@
 
 ---
 
-## 🌈 About Me
+## 🙋🏼‍♂️ About Me
 
 ```yaml
 Name: Kirit Ranjan
