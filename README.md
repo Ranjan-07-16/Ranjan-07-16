@@ -16,18 +16,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" alt="Ranjan-07-16's GitHub stats" />
-  <br />
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" alt="Ranjan-07-16's GitHub stats" />
+  <br /> -->
   <img src="https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🪐 Most Used Languages
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
