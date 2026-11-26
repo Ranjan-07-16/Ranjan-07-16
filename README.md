@@ -1,4 +1,5 @@
 <h1 align="center">✨ Kirit Ranjan ✨</h1>
+<br></br>
 
 <p align="center">
   <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -8,7 +9,7 @@
   <a href="https://leetcode.com/u/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   -->
 </p>
-
+<br></br>
 ---
 
 <p align="center">
