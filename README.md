@@ -2,22 +2,6 @@
   <img src="./assets/gemini-svg.svg" alt="Hello, I am Kirit" width="860" />
 </div>
 
-<p align="center">
-  <strong>B.Tech CSE Undergrad | AI &amp; Machine Learning | Exploring the intersection of Technology, Data &amp; Algorithms</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ranjan-07-16">
-    <img src="https://img.shields.io/badge/GitHub-Ranjan--07--16-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
