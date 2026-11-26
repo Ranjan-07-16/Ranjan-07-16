@@ -1,7 +1,4 @@
 <h1 align="center">✨ Kirit Ranjan ✨</h1>
-<br />
-
-### ☎️ Contact Details
 
 <p align="center">
   <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -55,9 +52,6 @@ Expertise: Full Stack Developer | AI/ML Undergrad
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p> -->
 
----
-
-### ☎️ Contact Details
 
 <!-- <p align="center">
   <a href="https://github.com/Ranjan-07-16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
