@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/u/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   -->
 </p>
-<br></br>
+
 ---
 
 <p align="center">
