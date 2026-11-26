@@ -47,8 +47,17 @@ Expertise: Full Stack Developer | AI/ML Undergrad
 
 ### ☎️ Contact Details
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Ranjan-07-16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-FF0066?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p> -->
+
+<p align="center">
+  <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Ranjan-07-16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- TODO: add your LeetCode handle, then uncomment
+  <a href="https://leetcode.com/u/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  -->
 </p>
