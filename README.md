@@ -20,32 +20,54 @@
 
 ---
 
-### About Me
-- Pursuing **B.Tech in Computer Science and Engineering** at Polaris School of Technology.
-- Focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Systems**.
-- Building real-time conversational AI voice agents, computer vision pipelines, and scalable backend services.
+<p align="center">
+  <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Ranjan-07-16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- TODO: add your LeetCode handle, then uncomment
+  <a href="https://leetcode.com/u/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  -->
+</p>
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Go, C++, JavaScript (ES6+), Java, Dart |
-| **AI / ML & CV** | PyTorch, LangChain, OpenCV, MediaPipe, LiveKit Agents, NumPy, Pandas |
-| **Web & Mobile** | React, Vite, Redux Toolkit, Node.js, React Native (Expo), Flutter |
-| **Databases & Tools** | PostgreSQL, MongoDB, Firebase, Docker, Git, Hugging Face Spaces |
-
----
-
-### Featured Projects
-- **[Grid Dispatch Env](https://huggingface.co/spaces/Ranjan-16/grid-dispatch-env)** — OpenEnv agent evaluation benchmark built with Docker and deployed on Hugging Face Spaces.
-- **Real-Time Conversational Voice Agent** — Low-latency voice AI pipeline powered by LiveKit, Silero VAD, Deepgram STT, and React.
-- **Computer Vision Finger Counter** — Real-time hand landmark tracking and gesture counting (`0–10`) using Python, OpenCV, and MediaPipe.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,go,github" alt="Backend and Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Stack" />
+  <br />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/My%20-Designations-00f5ff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full+Stack+Developer;Integrating+Technology,+Data+and+Algorithms" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" alt="Ranjan-07-16's GitHub stats" />
+  <br /> -->
+  <img src="https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🙋🏼‍♂️ About Me
+
+```yaml
+Name: Kirit Ranjan
+Expertise: Full Stack Developer | AI/ML Undergrad
+```
+<!-- <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p> -->
