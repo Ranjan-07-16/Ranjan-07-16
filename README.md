@@ -1,99 +1,51 @@
-  <svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" role="img" aria-label="Hello, I am Rameshwari">
-  <style>
-    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
-    .tw{fill:#fff;animation:tw 4s ease-in-out infinite}
-    @keyframes tw{0%,100%{opacity:.15}50%{opacity:.95}}
-    .rise{opacity:0;animation:rise 1s ease-out forwards}
-    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-    .bird{animation:fly 26s linear infinite}
-    @keyframes fly{from{transform:translateX(-60px)}to{transform:translateX(960px)}}
-    .cloud{animation:drift 60s linear infinite alternate}
-    @keyframes drift{from{transform:translateX(-30px)}to{transform:translateX(50px)}}
-    .shoot{opacity:0;animation:shoot 9s ease-in infinite}
-    @keyframes shoot{0%,86%{opacity:0;transform:translate(0,0)}88%{opacity:1}96%{opacity:0;transform:translate(-130px,58px)}100%{opacity:0;transform:translate(-130px,58px)}}
-    .halo{animation:halo 5s ease-in-out infinite}
-    @keyframes halo{0%,100%{opacity:.55}50%{opacity:1}}
-    @media (prefers-reduced-motion:reduce){*{animation:none!important}.rise{opacity:1}.tw{opacity:.7}.bird{transform:translateX(300px)}}
-  </style>
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0b1026"/><stop offset=".45" stop-color="#1f1d4d"/><stop offset=".72" stop-color="#553a78"/><stop offset=".9" stop-color="#c06a7e"/><stop offset="1" stop-color="#ffab70"/>
-    </linearGradient>
-    <radialGradient id="moonGlow"><stop offset="0" stop-color="#fff3c4" stop-opacity=".5"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></radialGradient>
-    <linearGradient id="trail" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <mask id="crescent"><rect width="860" height="240" fill="#fff"/><circle cx="716" cy="50" r="22" fill="#000"/></mask>
-    <clipPath id="clip"><rect width="860" height="240" rx="16"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="860" height="240" fill="url(#sky)"/>
-    <circle class="tw" style="animation-delay:-0.18s;animation-duration:3.83s" cx="704.24" cy="84.87" r="0.67"/><circle class="tw" style="animation-delay:-1.16s;animation-duration:4.74s" cx="808.08" cy="99.9" r="0.86"/><circle class="tw" style="animation-delay:-0.36s;animation-duration:2.99s" cx="426.5" cy="28.58" r="0.63"/><circle class="tw" style="animation-delay:-1.95s;animation-duration:4.76s" cx="805.54" cy="54.75" r="0.69"/><circle class="tw" style="animation-delay:-2.83s;animation-duration:2.68s" cx="351.21" cy="53.55" r="1.31"/><circle class="tw" style="animation-delay:-3.97s;animation-duration:3.06s" cx="734.94" cy="79.84" r="1.49"/><circle class="tw" style="animation-delay:-2.48s;animation-duration:4.6s" cx="633.57" cy="106.82" r="1.16"/><circle class="tw" style="animation-delay:-2.48s;animation-duration:5.22s" cx="775.57" cy="52.69" r="0.87"/><circle class="tw" style="animation-delay:-3.5s;animation-duration:5.33s" cx="101" cy="92.85" r="1.59"/><circle class="tw" style="animation-delay:-3.69s;animation-duration:4.15s" cx="533.15" cy="92.19" r="0.69"/><circle class="tw" style="animation-delay:-2.86s;animation-duration:3.26s" cx="654.17" cy="7.95" r="0.97"/><circle class="tw" style="animation-delay:-1.38s;animation-duration:4.86s" cx="714.26" cy="88.35" r="0.53"/><circle class="tw" style="animation-delay:-0.86s;animation-duration:4.22s" cx="805.5" cy="50.66" r="0.54"/><circle class="tw" style="animation-delay:-2.96s;animation-duration:2.5s" cx="477.79" cy="72.84" r="1.39"/><circle class="tw" style="animation-delay:-3.69s;animation-duration:2.54s" cx="422.1" cy="87.5" r="0.51"/><circle class="tw" style="animation-delay:-1.24s;animation-duration:4.6s" cx="552.24" cy="125.99" r="0.56"/><circle class="tw" style="animation-delay:-2.39s;animation-duration:4.46s" cx="725.82" cy="26.62" r="0.75"/><circle class="tw" style="animation-delay:-2.16s;animation-duration:4.93s" cx="343.15" cy="117.98" r="0.54"/><circle class="tw" style="animation-delay:-0.69s;animation-duration:5.35s" cx="297.89" cy="97.35" r="1"/><circle class="tw" style="animation-delay:-1.06s;animation-duration:5.23s" cx="259.63" cy="37.34" r="1.28"/><circle class="tw" style="animation-delay:-2.88s;animation-duration:3.11s" cx="855.56" cy="131.68" r="0.92"/><circle class="tw" style="animation-delay:-1.45s;animation-duration:4.07s" cx="645.87" cy="67.81" r="0.89"/><circle class="tw" style="animation-delay:-3.64s;animation-duration:3.96s" cx="297.68" cy="46.09" r="1.26"/><circle class="tw" style="animation-delay:-3.93s;animation-duration:3.97s" cx="85.29" cy="95.17" r="1.58"/><circle class="tw" style="animation-delay:-3.94s;animation-duration:3.43s" cx="76.62" cy="78.94" r="0.55"/><circle class="tw" style="animation-delay:-3.34s;animation-duration:2.96s" cx="636.01" cy="106.19" r="1.39"/><circle class="tw" style="animation-delay:-1.12s;animation-duration:4.82s" cx="55.99" cy="86" r="0.88"/><circle class="tw" style="animation-delay:-1.19s;animation-duration:4.14s" cx="96.07" cy="0.71" r="1.26"/><circle class="tw" style="animation-delay:-1.51s;animation-duration:4.03s" cx="298.74" cy="72.53" r="1.52"/><circle class="tw" style="animation-delay:-2.46s;animation-duration:3.46s" cx="666.57" cy="69.98" r="0.99"/><circle class="tw" style="animation-delay:-3.29s;animation-duration:3.38s" cx="604.75" cy="93.73" r="0.61"/><circle class="tw" style="animation-delay:-1.59s;animation-duration:3.04s" cx="739.53" cy="66.25" r="0.99"/><circle class="tw" style="animation-delay:-0.9s;animation-duration:4.6s" cx="178.95" cy="131.41" r="0.83"/><circle class="tw" style="animation-delay:-1.39s;animation-duration:3.77s" cx="61.17" cy="108.02" r="0.78"/><circle class="tw" style="animation-delay:-3.31s;animation-duration:3.68s" cx="758.14" cy="96.07" r="0.98"/><circle class="tw" style="animation-delay:-3.32s;animation-duration:3.29s" cx="482.66" cy="37.74" r="1.08"/><circle class="tw" style="animation-delay:-0.49s;animation-duration:3.39s" cx="774.23" cy="97.34" r="0.79"/><circle class="tw" style="animation-delay:-0.55s;animation-duration:4.18s" cx="70.22" cy="125.61" r="1.16"/><circle class="tw" style="animation-delay:-2.37s;animation-duration:4.98s" cx="268.75" cy="86.54" r="1.2"/><circle class="tw" style="animation-delay:-2.53s;animation-duration:4.12s" cx="731.4" cy="11.61" r="0.89"/><circle class="tw" style="animation-delay:-3.35s;animation-duration:3.94s" cx="90.78" cy="22.46" r="0.56"/><circle class="tw" style="animation-delay:-1.08s;animation-duration:2.8s" cx="66.85" cy="51.4" r="0.58"/><circle class="tw" style="animation-delay:-3.73s;animation-duration:3.67s" cx="494.84" cy="3.27" r="1.11"/><circle class="tw" style="animation-delay:-2.73s;animation-duration:5.21s" cx="571.38" cy="43.15" r="0.99"/><circle class="tw" style="animation-delay:-3.78s;animation-duration:3.05s" cx="588.66" cy="27.93" r="0.68"/><circle class="tw" style="animation-delay:-0.73s;animation-duration:4.97s" cx="287.1" cy="64.78" r="1.24"/><circle class="tw" style="animation-delay:-1.36s;animation-duration:3.02s" cx="284.34" cy="107.38" r="0.57"/><circle class="tw" style="animation-delay:-1.08s;animation-duration:3.35s" cx="698.7" cy="111.82" r="1.3"/><circle class="tw" style="animation-delay:-3.57s;animation-duration:4.58s" cx="469.39" cy="123.27" r="1.3"/><circle class="tw" style="animation-delay:-2.67s;animation-duration:3.38s" cx="321.84" cy="123.07" r="1.13"/><circle class="tw" style="animation-delay:-1.79s;animation-duration:2.61s" cx="389.87" cy="29.18" r="1.46"/><circle class="tw" style="animation-delay:-2.26s;animation-duration:4.64s" cx="384.36" cy="85.22" r="0.77"/><circle class="tw" style="animation-delay:-3.13s;animation-duration:2.96s" cx="263.68" cy="117.4" r="1.3"/><circle class="tw" style="animation-delay:-0.68s;animation-duration:2.76s" cx="230.47" cy="101.01" r="1.08"/><circle class="tw" style="animation-delay:-0.89s;animation-duration:4.7s" cx="205.43" cy="6.63" r="0.97"/><circle class="tw" style="animation-delay:-0.02s;animation-duration:4.19s" cx="2.73" cy="118.27" r="0.74"/><circle class="tw" style="animation-delay:-3.85s;animation-duration:2.73s" cx="539.23" cy="70.38" r="1.2"/><circle class="tw" style="animation-delay:-2.29s;animation-duration:3.7s" cx="379.53" cy="46.83" r="1.4"/><circle class="tw" style="animation-delay:-0.93s;animation-duration:5.08s" cx="638.85" cy="62.87" r="0.93"/><circle class="tw" style="animation-delay:-2.11s;animation-duration:3.32s" cx="260.84" cy="25.99" r="1.55"/><circle class="tw" style="animation-delay:-1.42s;animation-duration:2.87s" cx="330.15" cy="53.13" r="0.98"/><circle class="tw" style="animation-delay:-0.93s;animation-duration:3.64s" cx="511.4" cy="19.46" r="0.77"/><circle class="tw" style="animation-delay:-1.04s;animation-duration:5.08s" cx="42.74" cy="24.09" r="1.51"/><circle class="tw" style="animation-delay:-3.44s;animation-duration:4.75s" cx="829.92" cy="100.66" r="0.91"/><circle class="tw" style="animation-delay:-3.47s;animation-duration:4.23s" cx="559.2" cy="45.41" r="1.51"/><circle class="tw" style="animation-delay:-0.61s;animation-duration:4.39s" cx="155.22" cy="27.8" r="0.8"/><circle class="tw" style="animation-delay:-0.94s;animation-duration:4.83s" cx="299.96" cy="20.76" r="1.54"/><circle class="tw" style="animation-delay:-3.03s;animation-duration:4.35s" cx="355.84" cy="65.06" r="0.59"/><circle class="tw" style="animation-delay:-2.28s;animation-duration:4.9s" cx="201.94" cy="58.19" r="0.89"/><circle class="tw" style="animation-delay:-0.6s;animation-duration:3.24s" cx="151.24" cy="72.47" r="1.18"/>
-    <g transform="translate(560 30) rotate(-24)"><rect class="shoot" width="46" height="1.6" rx=".8" fill="url(#trail)"/></g>
-    <circle class="halo" cx="704" cy="58" r="64" fill="url(#moonGlow)"/>
-    <circle cx="704" cy="58" r="25" fill="#fff3c4" mask="url(#crescent)"/>
-    <g class="cloud" fill="#c0caf5" opacity=".13">
-      <ellipse cx="520" cy="112" rx="70" ry="9"/><ellipse cx="560" cy="104" rx="40" ry="9"/>
-      <ellipse cx="800" cy="128" rx="60" ry="7"/><ellipse cx="250" cy="150" rx="80" ry="7"/>
-    </g>
-    <g transform="translate(0 40) scale(1)"><path class="bird" style="animation-delay:0s;animation-duration:26s" d="M-7 0q3.5-5 7 0q3.5-5 7 0" fill="none" stroke="#c0caf5" stroke-width="1.4" stroke-linecap="round"/></g><g transform="translate(-22 50) scale(0.8)"><path class="bird" style="animation-delay:0.6s;animation-duration:26s" d="M-7 0q3.5-5 7 0q3.5-5 7 0" fill="none" stroke="#c0caf5" stroke-width="1.4" stroke-linecap="round"/></g><g transform="translate(-10 28) scale(0.7)"><path class="bird" style="animation-delay:1.1s;animation-duration:26s" d="M-7 0q3.5-5 7 0q3.5-5 7 0" fill="none" stroke="#c0caf5" stroke-width="1.4" stroke-linecap="round"/></g>
-    <path d="M0 240V178L0 144.72L54 166.85L108 147.11L162 137.36L216 174.73L270 141.6L324 161.66L378 151.53L432 117.08L486 170.79L540 171.33L594 132.98L648 148.37L702 120.43L756 165.5L810 117.5L864 168.72V240Z" fill="#6b4a8a" opacity=".75"/>
-    <path d="M0 240V198L0 165.14L66 184.71L132 160.95L198 160.61L264 174.88L330 195.81L396 186.61L462 163.92L528 169.86L594 181.38L660 191.48L726 190.97L792 180.65L858 159.39L924 175.66V240Z" fill="#3a2d5f"/>
-    <path d="M0 240V222Q-60 217.16 0 215.33Q60 222.54 120 220.51Q180 216.42 240 214.95Q300 207.13 360 211.48Q420 207.44 480 206.6Q540 211.55 600 211.16Q660 213.52 720 214.91Q780 203.91 840 207.2Q900 216.82 960 221.26V240Z" fill="#141530"/>
-    <g fill="#141530"><path d="M667.95 213.5l3.95 12.34h-7.9z"/><path d="M454.2 200.97l6.38 19.93h-12.76z"/><path d="M480.92 202.82l6.1 19.06h-12.2z"/><path d="M572.71 203.85l6.15 19.23h-12.31z"/><path d="M808.99 208.84l4 12.5h-8z"/><path d="M789.34 210.53l4.61 14.4h-9.22z"/><path d="M614.05 205.02l5.26 16.43h-10.52z"/><path d="M626.41 211.66l4 12.49h-7.99z"/><path d="M599.73 205.39l5.53 17.29h-11.07z"/><path d="M541.72 209.42l3.59 11.21h-7.17z"/><path d="M538.89 212.72l3.48 10.87h-6.96z"/><path d="M734.98 204.24l5.44 16.99h-10.87z"/><path d="M527.2 205.61l5.13 16.03h-10.26z"/><path d="M612.16 212.75l3.28 10.26h-6.57z"/><path d="M606 212.06l3.53 11.03h-7.06z"/><path d="M527.68 203.91l5.39 16.85h-10.78z"/></g>
-  </g>
-  <rect x=".5" y=".5" width="859" height="239" rx="16" fill="none" stroke="#30363d"/>
-  <text x="48" y="84" class="rise" style="animation-delay:.3s" fill="#c0caf5" font-size="22" letter-spacing=".5">Hello, I am</text>
-  <text x="46" y="136" class="rise" style="animation-delay:.8s" fill="#fff" font-size="52" font-weight="700" letter-spacing="-.5">Kirit</text>
-</svg>
-
+<div align="center">
+  <img src="./assets/gemini-svg.svg" alt="Hello, I am Kirit" width="860" />
+</div>
 
 <p align="center">
-  <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Ranjan-07-16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/kirit-ranjan-a94324391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- TODO: add your LeetCode handle, then uncomment
-  <a href="https://leetcode.com/u/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  -->
+  <strong>B.Tech CSE Undergrad | AI &amp; Machine Learning | Exploring the intersection of Technology, Data &amp; Algorithms</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ranjan-07-16">
+    <img src="https://img.shields.io/badge/GitHub-Ranjan--07--16-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,github" alt="Backend and Tools" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Stack" />
-  <br />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
-</p>
+### About Me
+- Pursuing **B.Tech in Computer Science and Engineering** at Polaris School of Technology.
+- Focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Systems**.
+- Building real-time conversational AI voice agents, computer vision pipelines, and scalable backend services.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/My%20-Designations-00f5ff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full+Stack+Developer;Integrating+Technology,+Data+and+Algorithms" />
-</p>
+### Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Go, C++, JavaScript (ES6+), Java, Dart |
+| **AI / ML & CV** | PyTorch, LangChain, OpenCV, MediaPipe, LiveKit Agents, NumPy, Pandas |
+| **Web & Mobile** | React, Vite, Redux Toolkit, Node.js, React Native (Expo), Flutter |
+| **Databases & Tools** | PostgreSQL, MongoDB, Firebase, Docker, Git, Hugging Face Spaces |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight" alt="Ranjan-07-16's GitHub stats" />
-  <br /> -->
-  <img src="https://streak-stats.demolab.com/?user=Ranjan-07-16&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### Featured Projects
+- **[Grid Dispatch Env](https://huggingface.co/spaces/Ranjan-16/grid-dispatch-env)** — OpenEnv agent evaluation benchmark built with Docker and deployed on Hugging Face Spaces.
+- **Real-Time Conversational Voice Agent** — Low-latency voice AI pipeline powered by LiveKit, Silero VAD, Deepgram STT, and React.
+- **Computer Vision Finger Counter** — Real-time hand landmark tracking and gesture counting (`0–10`) using Python, OpenCV, and MediaPipe.
 
 ---
 
-## 🙋🏼‍♂️ About Me
-
-```yaml
-Name: Kirit Ranjan
-Expertise: Full Stack Developer | AI/ML Undergrad
-```
-<!-- <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-07-16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-07-16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
