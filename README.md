@@ -1,4 +1,4 @@
-<h1 align="center">✨ Kirit Ranjan ✨</h1>
+<h2 align="center">✨ Kirit Ranjan ✨</h2>
 
 <br></br>
 
