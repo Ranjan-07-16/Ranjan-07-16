@@ -2,6 +2,7 @@
   <img src="./assets/gemini-svg.svg" alt="Hello, I am Kirit" width="860" />
 </div>
 
+<br></br>
 
 <p align="center">
   <a href="mailto:kiritranjan7@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
