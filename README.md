@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gemini-svg.svg" alt="Hello, I am Kirit" width="860" />
+  <img src="./banner.svg" alt="Hello, I am Kirit" width="860" />
 </div>
 
 <br></br>
